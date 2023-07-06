@@ -1,8 +1,8 @@
-# WEEK3-C0DE-CHALLENGE
-Week3-code-challenge is a web application that allows people to buy theater movie tickets.
+# code-3
+code-3 is a web application that allows people to buy theater movie tickets.
 
 ## Description
-Week3-code-challenge web application allows its users to view the list of movies the theater is showing and the details of said movies. It enables a user to buy tickets of a movie that interests them.
+code-3 web application allows its users to view the list of movies the theater is showing and the details of said movies. It enables a user to buy tickets of a movie that interests them.
 
 ## Technologies used
 - HTML 
