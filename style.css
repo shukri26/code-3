@@ -1,0 +1,44 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  
+  h1{
+    color:crimson;
+  }
+  
+  .main-container {
+    background-color:bisque;
+    display: flex;
+  }
+  
+  .main-movie {
+    width: 1000px;
+    justify-self: center;
+  }
+  
+  #mainMovie {
+    height: 500px;
+    width: 500px;
+  }
+  
+  .movie-details{
+    margin: auto;
+    max-width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  p.details{
+    flex: 1;
+  }
+  
+  div.description {
+    margin: auto;
+  }
+  
+  #detailsButton {
+    border: none;
+  }
